@@ -1,3 +1,4 @@
 <?php
-echo first php
+echo 'first php';
+
 ?>
