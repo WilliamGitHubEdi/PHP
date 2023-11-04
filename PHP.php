@@ -1,4 +1,1 @@
-<?php
-echo 'first php';
-
-?>
+<?= echo date()?>
